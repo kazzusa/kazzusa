@@ -1,4 +1,4 @@
-* Hello! *
+** Hello! **
 My name is Muhammad Adli Amadi bin Junaidi.
 I'm currently pursuing Software Engineering in IIUM Gombak, Malaysia.
 - Java, Python, C++, Flutter, HTMLCSSJS, Solidity, React
